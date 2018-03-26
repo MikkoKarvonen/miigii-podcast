@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Test"
-postImg: /images/dummy.jpg
-episodeNumber: 1
-soundcloudPodcast: 123
-soundcloudSong: 123
----
