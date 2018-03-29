@@ -1,7 +1,8 @@
-$('.squareContainer').mouseover(function() {
-  $(this.getElementsByClassName('squareText')).css("visibility","visible");
-});
-
-$('.squareContainer').mouseout(function() {
-  $(this.getElementsByClassName('squareText')).css("visibility","hidden");
-});
+$('.squareContainer').hover(
+  function(){
+     $(this).find('.squareText').fadeIn(200); 
+  },
+  function(){
+     $(this).find('.squareText').fadeOut(200); 
+  }
+);
