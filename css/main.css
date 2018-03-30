@@ -55,12 +55,15 @@ header{
 }
 
 .squares{
+    width: 1280px;
     max-width: 1280px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
+    background: #fff;
+    margin: 50px;
 }
 
 .square{
