@@ -1,6 +1,57 @@
+@font-face {
+    font-family: customFont;
+    src: url('../fonts/blowbrush.ttf');
+}
+
+body{
+    background-color: #747eb5;
+    background-image: url('../images/miigii_podcast_logo.png');
+    background-size: 100px 100px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
 .content{
     display: flex;
     justify-content: center;
+}
+
+.headerBackground{
+    background: #ffd556;
+    height: 150px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    z-index: -1;
+}
+
+.headerContent{
+    padding-top: 50px;
+    width: 1280px;
+    max-width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerContent img{
+    width: 200px;
+    height: 200px;
+}
+
+.headerTitle{
+    text-transform: uppercase;
+    font-family: customFont;
+    padding-left: 50px;
+    padding-top: 75px;
+}
+
+.headerTitle h1{
+    font-size: 72px;
 }
 
 .squares{
