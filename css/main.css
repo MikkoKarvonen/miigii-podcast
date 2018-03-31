@@ -9,11 +9,11 @@ body{
     background-size: 100px 100px;
 }
 
-header{
+/* header{
     display: flex;
     justify-content: center;
     position: relative;
-}
+} */
 
 .content{
     display: flex;
@@ -21,38 +21,45 @@ header{
     align-items: center;
 }
 
-.headerBackground{
-    background: #ffd556;
+.headerBottom{
     height: 150px;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    z-index: -1;
+    background: #ffd556;
 }
 
-.headerContent{
-    padding-top: 50px;
-    width: 1280px;
-    max-width: 1280px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.headerContent img{
-    width: 200px;
-    height: 200px;
-}
-
-.headerTitle{
+.headerBottomSmall h1{
+    font-size: 72px;
     text-transform: uppercase;
     font-family: customFont;
     padding-left: 50px;
-    padding-top: 75px;
 }
 
-.headerTitle h1{
-    font-size: 72px;
+.headerBottom, .headerTop{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.headerBottomSmall{
+    display: flex;
+    align-items: center;
+}
+
+.headerBottomSmall, .headerTopSmall{
+    width: 1280px;
+    max-width: 1280px;
+    height: 100%;
+    position: relative;
+}
+
+.headerTopSmall{
+    height: 100px;
+}
+
+.headerTopSmall img{
+    position: absolute;
+    bottom: -150px;
+    right: 0;
+    max-width: 225px;
 }
 
 .someLink{
