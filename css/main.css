@@ -22,8 +22,6 @@ body{
 }
 
 .copyright{
-    position: absolute;
-    bottom: 0;
     width: 100%;
 }
 
@@ -95,6 +93,7 @@ body{
 .someLinks{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .squares{
@@ -125,8 +124,8 @@ body{
 }
 
 .squareImg{
-    width: 280px;
-    height: 280px;
+    max-width: 280px;
+    max-height: 280px;
     background-size: contain;
     -webkit-transition: all 0.2s linear;
        -moz-transition: all 0.2s linear;
@@ -143,4 +142,41 @@ body{
     align-items: center;
     display:none;
     color: #fff;
+}
+
+@media only screen and (max-width: 880px) {
+    .headerBottom{
+        height: 100px;
+    }
+    .headerBottomSmall h1{
+        font-size: 42px;
+    }
+
+    .headerTopSmall{
+        height: 55px;
+    }
+
+    .headerTopSmall img{
+        bottom: -100px;
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .headerBottom{
+        height: 75px;
+    }
+    .headerBottomSmall h1{
+        font-size: 24px;
+        padding-left: 25px;
+    }
+
+    .headerTopSmall{
+        height: 30px;
+    }
+
+    .headerTopSmall img{
+        bottom: -75px;
+        width: 100px;
+    }
 }
