@@ -21,6 +21,16 @@ body{
     align-items: center;
 }
 
+.copyright{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.copyright p{
+    text-align: center;
+}
+
 .headerBottom{
     height: 150px;
     background: #ffd556;
