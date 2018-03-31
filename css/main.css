@@ -75,19 +75,19 @@ header{
 }
 
 .squares{
-    width: 1280px;
     max-width: 1280px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
-    background: #fff;
     margin: 50px;
 }
 
 .square{
     padding: 10px;
+    margin: 10px;
+    background: #fff;
 }
 
 .squareContainer{
@@ -102,8 +102,8 @@ header{
 }
 
 .squareImg{
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     background-size: contain;
     -webkit-transition: all 0.2s linear;
        -moz-transition: all 0.2s linear;
