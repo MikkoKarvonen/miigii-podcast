@@ -21,8 +21,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/miigii-podcast" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  mikkokarvonen
+apple_music_username: miigii/1364622314
+apple_podcast_username: 1364084333
+instagram_username: randomaccessmiigii
+soundcloud_username: mllgll
+spotify_username: 4r0TLwVYXZ15k1H4TQ6zA5?si=5wJ4DCJqQLumGxTkMmd5lA
 
 # Build settings
 markdown: kramdown

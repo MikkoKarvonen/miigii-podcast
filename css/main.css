@@ -17,7 +17,8 @@ header{
 
 .content{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .headerBackground{
@@ -52,6 +53,25 @@ header{
 
 .headerTitle h1{
     font-size: 72px;
+}
+
+.someLink{
+    width: 70px;
+    height: 70px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.someLink img{
+    width: 50px;
+}
+
+.someLinks{
+    display: flex;
+    justify-content: center;
 }
 
 .squares{
