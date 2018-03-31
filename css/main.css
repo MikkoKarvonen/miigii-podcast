@@ -31,6 +31,12 @@ body{
     text-align: center;
 }
 
+.episodeContent{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
 .headerBottom{
     height: 150px;
     background: #ffd556;

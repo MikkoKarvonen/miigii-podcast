@@ -4,5 +4,5 @@ title:  ""
 postImg: /images/
 episodeNumber: 
 soundcloudPodcast:
-soundcloudSong:
+spotifySong:
 ---
