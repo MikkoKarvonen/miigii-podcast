@@ -25,6 +25,10 @@ body{
     width: 100%;
 }
 
+.copyright a{
+    color: #212529;
+}
+
 .copyright p{
     text-align: center;
 }
