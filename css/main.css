@@ -29,12 +29,6 @@ body{
     text-align: center;
 }
 
-.episodeContent{
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-}
-
 .headerBottom{
     height: 150px;
     background: #ffd556;
@@ -74,6 +68,14 @@ body{
     bottom: -150px;
     right: 0;
     max-width: 225px;
+}
+
+.player{
+    width: 100%;
+    padding: 25px 0;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
 }
 
 .someLink{
