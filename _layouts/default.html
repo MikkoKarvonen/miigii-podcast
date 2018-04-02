@@ -30,9 +30,17 @@
                                 <iframe src="https://open.spotify.com/embed?uri=spotify:track:{{ post.spotifySong}}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                             </div>
                         {% else %}
-                            <div class="player">
-                                <h2>Linkki biisin tulossa myöhemmin</h2>
-                            </div>
+                            {% if post.hyperFollow %}
+                                <div class="player">
+                                    <a href="https://distrokid.com/hyperfollow/miigii/{{ post.hyperFollow }}" target="blank">
+                                        <button type="button" class="btn btn-success">Tallenna ennakkoon</button>
+                                    </a>
+                                </div>
+                            {% else %}
+                                <div class="player">
+                                    <h2>Linkki biisin tulossa myöhemmin</h2>
+                                </div>
+                            {% endif %}
                         {% endif %}
                     </div>
                 </div>
