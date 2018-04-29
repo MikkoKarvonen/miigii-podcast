@@ -6,4 +6,5 @@ episodeNumber: 5
 soundcloudPodcast: 433524165
 spotifySong: 7spVBWhNwCE8PVh8ON7XPs
 hyperFollow: 
+soundcloudStream: 434979624
 ---

@@ -56,6 +56,14 @@ body{
     align-items: center;
 }
 
+.headerBottomSmall a{
+    color: black;
+}
+
+.headerBottomSmall a:hover{
+    text-decoration: none;
+}
+
 .headerBottomSmall, .headerTopSmall{
     width: 1280px;
     max-width: 1280px;
@@ -72,6 +80,32 @@ body{
     bottom: -150px;
     right: 0;
     max-width: 225px;
+}
+
+.landing{
+    display: flex;
+    justify-content: center;
+}
+
+.landingContainer{
+    max-width: 550px;
+    text-align: center;
+    background: #fff;
+    padding: 15px;
+    margin: 25px 0 25px 0;
+}
+
+.landingContainer img{
+    max-width: 200px;
+    padding: 25px;
+}
+
+.landingLinks{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .player{
