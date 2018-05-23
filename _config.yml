@@ -27,6 +27,7 @@ apple_podcast_username: 1364084333
 instagram_username: randomaccessmiigii
 soundcloud_username: mllgll
 spotify_username: 4r0TLwVYXZ15k1H4TQ6zA5?si=5wJ4DCJqQLumGxTkMmd5lA
+permalink: /:title
 
 # Build settings
 markdown: kramdown
