@@ -3,7 +3,7 @@
 <div class="landing">
     <div class="landingContainer">
         <h1>{{page.title}}</h1>
-        <iframe width="500px" height="500px" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{page.soundcloudStream}}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+        <iframe width="500px" height="500px" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{page.soundcloudPodcast}}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
         <hr>
         <h2>Stream</h2>
         <div class="landingLinks">
@@ -16,10 +16,10 @@
             <a href="http://napster.com/artist/miigii?ocode=social_user&pcode=social_user&cpath=Link&rsrc=artist" target="blank">
                 <img src="{{ site.baseurl }}/images/landing/napster.png" class="img-fluid">
             </a>
-            <a href="https://soundcloud.com/mllgll" target="blank">
+            <a href="https://soundcloud.com/mllgll/{{page.soundcloudStream}}" target="blank">
                 <img src="{{ site.baseurl }}/images/landing/soundcloud.png" class="img-fluid">
             </a>
-            <a href="https://open.spotify.com/artist/4r0TLwVYXZ15k1H4TQ6zA5" target="blank">
+            <a href="https://open.spotify.com/album/{{ page.spotifySong }}" target="blank">
                 <img src="{{ site.baseurl }}/images/landing/spotify.png" class="img-fluid">
             </a>
             <a href="https://tidal.com/browse/artist/9274977" target="blank">

@@ -5,5 +5,6 @@ postImg: /images/
 episodeNumber: 
 soundcloudPodcast:
 spotifySong:
-hyperFollow:
+soundcloudStream:
+tidalStream: 
 ---

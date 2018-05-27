@@ -4,7 +4,7 @@ title:  "Forgotten Bubbles"
 postImg: /images/forgbub_tiny.png
 episodeNumber: 4
 soundcloudPodcast: 430557567
-spotifySong: 4kN6xKGIhW6fMxfgl8UR1K
+spotifySong: 2XJPXPd7ycvq2y5F8pw58P?si=5EiG9KISQX-BccmRuaWOww
 hyperFollow: daiJ
-soundcloudStream: 434979630
+soundcloudStream: forgotten-bubbles
 ---

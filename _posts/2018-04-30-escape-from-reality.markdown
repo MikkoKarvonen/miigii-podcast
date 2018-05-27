@@ -4,7 +4,7 @@ title:  "Escape from Reality"
 postImg: /images/escape_tiny.png
 episodeNumber: 6
 soundcloudPodcast: 437138082
-spotifySong: 6ZnIUzsWaXnZF8hhJd4lq0
+spotifySong: 0JvwYioI3Kg68YzcOcVq3L?si=lpC31PMVSuW441P1JP8-iA
 hyperFollow: 
-soundcloudStream: 437138418
+soundcloudStream: escape-from-reality
 ---

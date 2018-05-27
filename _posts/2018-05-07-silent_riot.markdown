@@ -4,7 +4,7 @@ title:  "Silent Riot"
 postImg: /images/silentriot_tiny.png
 episodeNumber: 7
 soundcloudPodcast: 440455125
-spotifySong: 6YUglTnsnTWSTJ9sn6lnfX
+spotifySong: 319SRdrVDHQcU5C6HAWBrx?si=NKPcJofyTJmK7nDGBZw5pg
 hyperFollow: dlox
-soundcloudStream: 440599701
+soundcloudStream: silent-riot
 ---

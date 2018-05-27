@@ -4,7 +4,7 @@ title:  "Loose Battle"
 postImg: /images/loosebattle_tiny.png
 episodeNumber: 9
 soundcloudPodcast: 446958612
-spotifySong: 0T4Kh0bkPCbNsI4JfgDVkA
+spotifySong: 5gYszSNBHXJUOSqQhisMLB?si=E9FIfjwwQdOeMYJj4e3lZQ
 hyperFollow: dsSo
-soundcloudStream: 446958564
+soundcloudStream: loose-battle
 ---
