@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Cordion"
+postImg: /images/cordion_tiny.png
+episodeNumber: 12
+soundcloudPodcast: 456919578
+spotifySong: 3GkGX3QcwECKpsdYTeDkMP?si=pjOyYIBtSXOCiCeAG_H6GA
+hyperFollow: 
+soundcloudStream: cordion
+---
