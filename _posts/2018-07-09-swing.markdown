@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Swing"
+postImg: /images/swing_tiny.png
+episodeNumber: 16
+soundcloudPodcast: 469410264
+spotifySong: 6rlk2I8TGW7n2zwMwOygoV?si=Lap0HOF9RBqgZ5TVoi7xwg
+soundcloudStream: swing
+---
