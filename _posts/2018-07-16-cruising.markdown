@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Cruising"
+postImg: /images/cruising_tiny.png
+episodeNumber: 17
+soundcloudPodcast: 472465371
+spotifySong: 
+soundcloudStream: cruising
+---
