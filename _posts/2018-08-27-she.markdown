@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "She"
+postImg: /images/she_tiny.png
+episodeNumber: 23
+soundcloudPodcast: 491348526
+spotifySong: 
+soundcloudStream: she
+---

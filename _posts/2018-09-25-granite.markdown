@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pendulum - Granite (Miigii Remix)"
+postImg: /images/granite_tiny.jpg
+episodeNumber: 27
+soundcloudPodcast: 505042482
+spotifySong: 
+soundcloudStream: pendulum-granite-miigii-remix
+---

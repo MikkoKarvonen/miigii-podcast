@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Waiting"
+postImg: /images/waiting_tiny.png
+episodeNumber: 22
+soundcloudPodcast: 488074920
+spotifySong: 
+soundcloudStream: waiting
+---

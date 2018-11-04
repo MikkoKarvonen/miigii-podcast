@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Asd"
+postImg: /images/asd_tiny.png
+episodeNumber: 21
+soundcloudPodcast: 485438814
+spotifySong: 
+soundcloudStream: asd
+---
